@@ -1,5 +1,5 @@
 CFLAGS = -Wall
-#target exe
+#target myexe
 all: main.o myfunc.o
 	g++ $(CFLAGS) -o myexe main.o myfunc.o
 
