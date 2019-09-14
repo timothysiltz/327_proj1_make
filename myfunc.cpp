@@ -5,14 +5,10 @@
 *9.10.19
 */
 
-#include <iostream>
-#include <string>
-#include "myfunc.h"
 #include "myfunc.h"
 
-std::string myfunc()
+std::string func()
 {
-//string
 	return "hello world";
 }
 

@@ -5,11 +5,10 @@
 *9.10.19
 */
 
-#ifndef MYFUNC_H
-#define MYFUNC_H
 #include <iostream>
-#include <string>
+#ifndef MYFUNC_H_
+#define MYFUNC_H_
 
-std::string myfunc();
+std::string func();
 
 #endif
